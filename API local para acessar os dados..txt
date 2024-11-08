@@ -1,0 +1,17 @@
+API local para acessar os dados.
+
+Para que você possa acessá-la e dar seguimento aos estudos dessa aula, basta seguir os passos abaixo:
+
+1) Baixar a aplicação (arquivo api.jar);
+
+2) Baixar e instalar o Java 17;
+
+3) Abrir o prompt de comando (menu iniciar, digitar cmd e apertar o enter);
+
+4) Acessar diretório Downloads ou outro diretório no qual baixou o arquivo api.jar utilizando o comando cd Downloads. 
+
+5) Executar a aplicação no cmd com o código java -jar api.jar:
+
+6) Minimize a janela do prompt de comando, abra o navegador e acesse o seguinte endereço: http://localhost:8080/medicos?page=1
+
+É importante manter o prompt de comando aberto e minimizado durante todo o momento que for consumir a API.
